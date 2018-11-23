@@ -1,0 +1,3 @@
+#!/usr/bin:/usr/sbin
+git commit
+git push git@github.com:lpfirefly/ubuntu_notes.git
